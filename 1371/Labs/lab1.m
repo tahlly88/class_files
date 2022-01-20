@@ -1,3 +1,5 @@
+clear;
+clc;
 % The given values divided by 12 to convert them from inches to feet
 r1 = 4.8 / 12;
 r2 = 6.2 / 12;
